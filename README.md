@@ -38,3 +38,5 @@ Using the command:
 Produces the result:
 
 ![example](output-example.jpg/)
+Where each line is a snapshot at a given percentage thee hash table has been filled.
+(Percent at home is how many keys were placed without a collision occurring).
