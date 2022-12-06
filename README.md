@@ -37,4 +37,4 @@ Using the command:
 
 Produces the result:
 
-![example](https://raw.githubusercontent.com/tinfoilhater/HashingAlgorithm/master/output-example.jpg/)
+![example](output-example.jpg/)
